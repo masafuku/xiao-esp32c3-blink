@@ -1,4 +1,4 @@
-// XIAO ESP32-C3 Blink Sample
+    // XIAO ESP32-C3 Blink Sample
 
 void setup() {
     pinMode(LED_BUILTIN, OUTPUT);
